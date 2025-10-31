@@ -62,12 +62,11 @@ O **Sistema de Vendas de Celulares** resolve esse problema ao:
 O projeto pode ser desenvolvido com diferentes tecnologias, mas a estrutura base sugerida é:
 
 **Banco de Dados:**
-- MySQL (ou Firebase para versão simplificada)
+- MySQL Workbench
 
 **Ferramentas adicionais:**
 - Git e GitHub para controle de versão  
 - VS Code para desenvolvimento  
-- Cloudflare e Figma (opcional, para wireframes)
 - App.Diagrams.net para o DER
 
 ---
@@ -96,6 +95,12 @@ Todos os direitos autorais das marcas de celulares (Samsung, Apple, Motorola, et
 - Adrielly Trindade Martins Paixão 
 - Maria Luiza Nunes dos Santos Silva 
 - Nicoli Isabel Huallpa Coarite 
+
+## Lincença
+
+## Licença
+
+Este projeto é de uso educacional e está sob a **[Licença MIT](./LICENSE)** — © 2025 ETEC Parque da Juventude.
 
 **Ano de desenvolvimento: 2025**
 **Instituição: ETEC Parque da Juventude**
